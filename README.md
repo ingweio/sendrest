@@ -1,5 +1,7 @@
 https://send.rest
-![Alt text](send-rest.png?raw=true "Send-Rest")
+![Alt text](https://raw.githubusercontent.com/ingweio/sendrest/master/send-rest.png?raw=true "Send-Rest")
+Please note: Templates are stored on send.rest
+
 
     var send = require("send-rest");
 
